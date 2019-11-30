@@ -1,0 +1,27 @@
+What is the evalution method we can use for SRGAN?
+	1. SSIM (Structure similarity index)
+	2. PSNR (Peak signal to noise ratio)
+	3. MOS (Mean opinion score)
+	4 All of them
+Answer: All of them
+
+What is advantage of SRGAN over other Super Resolution methods.
+	1. It reduces noise in super resolution than other methods.
+	2. It recovers finer texture details in super resolution better than other methods.
+	3. It produces super resolution much faster than other methods.
+	4. None
+Answer: It recovers finer texture details in super resolution better than other methods.
+
+What is the disadvantage associated with SRGAN
+	1. It losses details of the original image
+	2. It do not produce great super resolution
+	3. It sometime produce distorted images if the low resolution is not very clear.
+	4. None
+Answer. It sometime produce distorted images if the low resolution is not very clear
+
+Does SRGAN generator uses content loss as for generator loss.
+	1. yes
+	2. No
+
+Answer: Yes
+	
